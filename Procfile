@@ -1,1 +1,1 @@
-web: gunicorn app_health.app:app
+web: gunicorn app:server
